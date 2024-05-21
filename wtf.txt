@@ -1,0 +1,2 @@
+The difference between the two systems text files is the newline character. In Windows it is "\r\n" carriage return and line feed. In Unix it is "\n"
+line feed.

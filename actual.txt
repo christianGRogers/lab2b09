@@ -1,0 +1,7 @@
+/usr/bin exists
+/usr/bin is a directory
+/usr/bin/date exists
+/usr/bin/date is not a directory
+/dne does not exist
+/dne is not a directory
+/dev/null exists
